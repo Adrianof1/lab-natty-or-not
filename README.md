@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# “Natural ou Fake Natty" ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A inteligência artificial generativa (IA generativa) está revolucionando o mundo do trabalho e moldando o futuro de diversas áreas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot (Microsft)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Copilot (Microsft) para gerar o roteiro
+D-ID utilizada para a criação de assistente virtual (chatboot), que faz a interação com o usuario.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Fascinante e cheio de possibilidades, alguns projetos exploram o potencial das IAs Generativas para criar conteúdo realista.
 ```
 
 ### Exemplos e Insigths
