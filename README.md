@@ -34,7 +34,7 @@ Copilot (Microsft) para gerar o roteiro
 D-ID utilizada para a criação de assistente virtual (chatboot), que faz a interação com o usuario.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Capaz de manter uma conversa com um usuário humano em linguagem natural.
 
 ## 💭 Reflexão (Opcional)
 Fascinante e cheio de possibilidades, alguns projetos exploram o potencial das IAs Generativas para criar conteúdo realista.
